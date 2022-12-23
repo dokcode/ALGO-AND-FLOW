@@ -1,0 +1,7 @@
+1. START
+2. Input kalimat kedalam variable string
+3. Ubah String kedalam array bernama arrSplit, menggunakan split() dengan separator spasi
+4. Balikkan value arrSplit ke dalam array baru bernama arrReverse, menggunakan reverse()
+5. Gabungkan array yang sudah dibalik menjadi variable baru bertipe string, menggunakan join()
+6. Tampilkan hasilnya
+7. END
